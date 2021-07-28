@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/chloelovescode/cloclo/main/images/CHLOE%20CHAN_8758%20%204R%20RESOLUTION.jpg)
 
 <!-- Add your details -->
 
