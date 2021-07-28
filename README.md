@@ -58,6 +58,7 @@ https://chanshuyi1.wixsite.com/website
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
 [BCG RISE project](#regression-based-projects) <br>
+[new project](#new project) <br> 
 
 <!-- Add your details -->
 
