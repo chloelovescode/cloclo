@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Chloe Chan__, an innovative and dynamic product manager with 3 years of experience in tourism sector. 
 
 
 <!-- Add link to the sections -->
@@ -30,9 +30,9 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### MANDAI GLOBAL 
+PRODUCT MANAGER<br>
+September 2021 to Present: 1 year 10 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
@@ -51,14 +51,17 @@ Engineering Graduate 2010-14, First Division
 
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
+
+https://chanshuyi1.wixsite.com/website
 <!-- Add your details -->
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
+[BCG RISE project](#regression-based-projects) <br>
 
 <!-- Add your details -->
 
-#### Classification based projects
+#### Travel Envoy Network 
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
@@ -72,6 +75,8 @@ Regression is a supervised learning technique which helps in finding the correla
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
+#### BCG RISE 
+As part of BCG Data Analytics ... 
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
